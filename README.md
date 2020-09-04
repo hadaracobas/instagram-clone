@@ -1,3 +1,18 @@
+## Instagram Clone
+
+https://instagram-clone-3705a.web.app
+
+The purpose of the project: a private project I built to improve my coding skills.
+
+Few points about this project:
+* Technology: React.js
+* Components: Post, ImageUpload, App (function components)
+* State: hooks
+* Design: stick to the Instagram design
+* Backend and Deploy: firebase
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
