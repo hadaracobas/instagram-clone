@@ -105,7 +105,7 @@ function App() {
   return (
     <div className="app">
       <Modal open={open} onClose={() => setOpen(false)}>
-        <div style={modalStyle} className={classes.paper}>
+        <div style={modalStyle} className={`${classes.paper} app__popupsign`}>
           <form className="app__signup">
             <center>
               <img
@@ -140,7 +140,7 @@ function App() {
       </Modal>
 
       <Modal open={openSignIn} onClose={() => setOpenSignIn(false)}>
-        <div style={modalStyle} className={classes.paper}>
+        <div style={modalStyle} className={`${classes.paper} app__popupsign`}>
           <form className="app__signup">
             <center>
               <img

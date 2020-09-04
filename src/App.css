@@ -37,6 +37,10 @@
   padding: 10px;
 }
 
+.app__popupsign {
+  max-width: 50%;
+}
+
 @media (min-width: 760px) {
   .app__posts {
     display: flex;
